@@ -6,7 +6,11 @@
   "content_scripts": [
     {
       "matches": ["https://bilet.intercity.pl/lista_biletow.jsp*"],
-      "js": ["index.ts"]
+      "js": ["drivers/intercity.ts"]
+    },
+    {
+      "matches": ["https://bilety.mazowieckie.com.pl/panel/zamowienia/?zamowienie,*"],
+      "js": ["drivers/kolejemazowieckie.ts"]
     }
   ],
   "icons": {
