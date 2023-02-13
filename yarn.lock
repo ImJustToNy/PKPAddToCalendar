@@ -23,11 +23,6 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@bundled-es-modules/pdfjs-dist@^2.16.105-alpha.2":
-  version "2.16.105-alpha.2"
-  resolved "https://registry.yarnpkg.com/@bundled-es-modules/pdfjs-dist/-/pdfjs-dist-2.16.105-alpha.2.tgz#2b030f344c128143f1f618e13ab66bfe694a8662"
-  integrity sha512-z3TUDeFBA7SV8QgaQmbrAsnaJFnZ/dKuGhdnO9cprrBmiq1xsbbwbZRzJlVJsyQwqIbhiY5SnV+eLAUsr/n4fQ==
-
 "@esbuild/linux-loong64@0.14.54":
   version "0.14.54"
   resolved "https://registry.yarnpkg.com/@esbuild/linux-loong64/-/linux-loong64-0.14.54.tgz#de2a4be678bd4d0d1ffbb86e6de779cde5999028"

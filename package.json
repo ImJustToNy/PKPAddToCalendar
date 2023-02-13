@@ -4,7 +4,6 @@
   "author": "Antoni Siek <antoni@siek.io>",
   "license": "MIT",
   "devDependencies": {
-    "@bundled-es-modules/pdfjs-dist": "^2.16.105-alpha.2",
     "@rollup/plugin-commonjs": "^24.0.1",
     "@rollup/plugin-node-resolve": "^15.0.1",
     "@rollup/plugin-typescript": "^11.0.0",
