@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "PKP Add to calendar",
-  "version": "2.0",
+  "version": "2.0.1",
   "description": "Adds a button to the PKP websites to add the trip to your calendar",
   "content_scripts": [
     {

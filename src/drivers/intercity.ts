@@ -4,7 +4,7 @@ import openCalendarPrompt from "../utils/openCalendarPrompt";
 
 import pdfjs from "../utils/pdfjs";
 
-document.querySelectorAll('#print_area > div.content > div > div > form > div.lista_biletow_wrapper > div > div.orange').forEach(ticket => {
+document.querySelectorAll('#print_area > div > div.form_ticket_list > form > div.lista_biletow_wrapper > div > div.orange').forEach(ticket => {
     const buttonsCell = ticket.querySelector('div.table_div_cell:nth-child(7)');
 
     const addToCalendarButton = document.createElement('input');
